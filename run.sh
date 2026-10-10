@@ -1,0 +1,1 @@
+#!/usr/bin/env bash\nset -e\npython3 run.py\n

@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-01T00:00:00Z",
+      "source_ip": "192.0.2.40",
+      "destination_ip": "198.51.100.40",
+      "destination_port": 22,
+      "protocol": "TCP",
+      "event_type": "suspicious_connection",
+      "username": "demo-user"
+    },
+    {
+      "timestamp": "2026-01-01T00:00:01Z",
+      "source_ip": "192.0.2.40",
+      "destination_ip": "198.51.100.40",
+      "destination_port": 23,
+      "protocol": "TCP",
+      "event_type": "suspicious_connection",
+      "username": "demo-user"
+    },
+    {
+      "timestamp": "2026-01-01T00:00:02Z",
+      "source_ip": "192.0.2.40",
+      "destination_ip": "198.51.100.40",
+      "destination_port": 24,
+      "protocol": "TCP",
+      "event_type": "suspicious_connection",
+      "username": "demo-user"
+    },
+    {
+      "timestamp": "2026-01-01T00:00:03Z",
+      "source_ip": "192.0.2.40",
+      "destination_ip": "198.51.100.40",
+      "destination_port": 25,
+      "protocol": "TCP",
+      "event_type": "suspicious_connection",
+      "username": "demo-user"
+    },
+    {
+      "timestamp": "2026-01-01T00:00:04Z",
+      "source_ip": "192.0.2.40",
+      "destination_ip": "198.51.100.40",
+      "destination_port": 26,
+      "protocol": "TCP",
+      "event_type": "suspicious_connection",
+      "username": "demo-user"
+    }
+  ]
+}

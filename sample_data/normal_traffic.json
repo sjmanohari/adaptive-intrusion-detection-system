@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-01T00:00:00Z",
+      "source_ip": "192.0.2.1",
+      "destination_ip": "198.51.100.10",
+      "destination_port": 443,
+      "protocol": "TCP",
+      "event_type": "normal_traffic"
+    },
+    {
+      "timestamp": "2026-01-01T00:00:10Z",
+      "source_ip": "192.0.2.2",
+      "destination_ip": "198.51.100.11",
+      "destination_port": 443,
+      "protocol": "TCP",
+      "event_type": "http_request"
+    }
+  ]
+}
